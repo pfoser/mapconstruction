@@ -1,0 +1,26 @@
+ 
+Copyright 2013 Mahmuda Ahmed and Carola Wenk
+
+This software was developed at the University of Texas at San Antonio
+in collaboration with Tulane University. 
+
+The updates of version 2.0 were done during Mahmuda Ahmed's internship with Google.
+
+This material is based upon work supported by the National Science
+Foundation under grants NSF CCF-0643597 and NSF CCF-1301911
+(previously NSF CCF-1216602). Any opinions, findings, and conclusions
+or recommendations expressed in this material are those of the
+author(s) and do not necessarily reflect the views of the National
+Science Foundation.
+
+This software is based on the following article. Please cite this
+article when using this code as part of a research publication:
+
+Mahmuda Ahmed and Carola Wenk, "Constructing Street Networks from GPS
+Trajectories", European Symposium on Algorithms (ESA): 60-71,
+Ljubljana, Slovenia, 2012
+
+
+The original software is available from
+  http://www.mapconstruction.org/
+

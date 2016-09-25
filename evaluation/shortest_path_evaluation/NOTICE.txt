@@ -1,0 +1,29 @@
+ 
+Copyright 2013 Sophia Karagiorgou and Dieter Pfoser
+
+This software was developed at the Institute for Management of Information 
+Systems (IMIS), Research Center ATHENA, Greece 
+in collaboration with George Mason University.
+
+This material is based upon work supported by the 
+European Union Seventh Framework Programme -
+Marie Curie Actions, Initial Training Network GEOCROWD
+(http://www.geocrowd.eu) under grant agreement No. FP7-
+PEOPLE-2010-ITN-264994.
+
+This software is based on the following article(s). Please cite this
+article when using this code as part of a research publication:
+
+S. Karagiorgou and D. Pfoser. 
+On Vehicle Tracking Data-Based Road Network Generation. 
+In Proc. 20th ACM SIGSPATIAL GIS Conference, pp. 89-98, 2012. 
+
+S. Karagiorgou and D. Pfoser. 
+Segmentation-Based Road Network Construction. 
+In Proc. 21th ACM SIGSPATIAL GIS Conference, pp. 470-473, 2013.   
+
+
+
+The original software is available from
+  http://www.mapconstruction.org/
+

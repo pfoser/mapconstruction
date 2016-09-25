@@ -1,0 +1,24 @@
+ 
+Copyright 2014 Mahmuda Ahmed, Brittany Terese Fasy, K. S. Hickmann and Carola Wenk
+
+This software was developed at the University of Texas at San Antonio
+in collaboration with Tulane University.
+
+This material is based upon work supported by the National Science
+Foundation under grants NSF CCF-1331009 (previously 0643597) and NSF CCF-1301911
+(previously 1216602). Any opinions, findings, and conclusions
+or recommendations expressed in this material are those of the
+author(s) and do not necessarily reflect the views of the National
+Science Foundation.
+
+This software is based on the following article. Please cite this
+article when using this code as part of a research publication:
+
+M. Ahmed, B. T. Fasy, K. S. Hickmann, and C. Wenk.
+Path-based distance for street map comparison.
+arXiv:1309.6131, 2014.
+
+
+The original software is available from
+  http://www.mapconstruction.org/
+
