@@ -720,7 +720,7 @@ p a {
 blockquote {
   padding: 0 0 0 30px;
   margin-bottom: 20px;
-  font-size: 1.6em;
+  font-size: 1.2em;
   border-left: 10px solid #e9e9e9;
 }
 
@@ -878,4 +878,3 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
-
